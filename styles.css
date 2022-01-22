@@ -1,0 +1,10 @@
+#groceryImage{
+    height: 300px;
+    object-fit: cover;
+    overflow: hidden;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    
+}
