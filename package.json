@@ -1,0 +1,24 @@
+{
+  "name": "promineo-hw-week7",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielleByrne/promineo-hw-week7.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielleByrne/promineo-hw-week7/issues"
+  },
+  "homepage": "https://github.com/DanielleByrne/promineo-hw-week7#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "jquery": "^3.6.0"
+  }
+}
